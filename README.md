@@ -2,44 +2,44 @@
 The Drupal Feature module to replicate the George Washington Financial Papers project
 
 
-Overview
-What this module includes
-  Content types
-  Taxonomy vocabularies
-  Views
-Step 1. Installing and enabling modules
-Step 2. Customizing the data model
-Step 3. Organizing and customizing the default menu
-Step 4. Automatic Nodetitles settings
-Step 5. Enabling blocks
-Step 6. Populating taxonomies
-Step 7. Adding content
-  One node at a time
-  Using Editview
-  Importing data
-Step 8. Modifying displays
-Step 9. Theming
-Content type details
-  Account
-  Book
-  Book page
-  Double-entry line
-  Person
-  Place
-  Ship
-  Single-entry line
-View details
-  Account book pages
-  Browsing
-  Browsing (tax terms)
-  Listed books
-  Map
-  Page overview
-  References
-  Search
-  Taxonomy Description
-  Taxonomy term
-  Transcription lines
+- [Overview](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#overview)
+- [What this module includes](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#what-this-module-includes)
+  - [Content types](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#content-types)
+  - [Taxonomy vocabularies](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#taxonomy-vocabularies)
+  - [Views](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#views)
+- [Step 1. Installing and enabling modules](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-1-installing-and-enabling-modules)
+- [Step 2. Customizing the data model](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-2-customizing-the-data-model)
+- [Step 3. Organizing and customizing the default menu](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-3-organizing-and-customizing-the-default-menu)
+- [Step 4. Automatic Nodetitles settings](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-4-automatic-nodetitles-settings)
+- [Step 5. Enabling blocks](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-5-enabling-blocks)
+- [Step 6. Populating taxonomies](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-6-populating-taxonomies)
+- [Step 7. Adding content](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-7-adding-content)
+  - [One node at a time](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#one-node-at-a-time)
+  - [Using Editview](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#using-editview)
+  - [Importing data](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#importing-data)
+- [Step 8. Modifying displays](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-8-modifying-displays)
+- [Step 9. Theming](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#step-9-theming)
+- [Content type details](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#content-type-details)
+  - [Account](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#account)
+  - [Book](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#book)
+  - [Book page](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#book-page)
+  - [Double-entry line](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#double-entry-line)
+  - [Person](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#person)
+  - [Place](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#place)
+  - [Ship](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#ship)
+  - [Single-entry line](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#single-entry-line)
+- [View details](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#view-details)
+  - [Account book pages](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#account-book-pages)
+  - [Browsing](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#browsing)
+  - [Browsing (tax terms)](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#browsing-tax-terms)
+  - [Listed books](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#listed-books)
+  - [Map](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#map)
+  - [Page overview](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#page-overview)
+  - [References](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#references)
+  - [Search](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#search)
+  - [Taxonomy Description](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#taxonomy-description)
+  - [Taxonomy term](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#taxonomy-term)
+  - [Transcription lines](https://github.com/Center4DigEd/financial-papers/blob/master/README.md#transcription-lines)
 
 
 ## Overview
