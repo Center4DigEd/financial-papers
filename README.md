@@ -1,4 +1,4 @@
-# financial-papers
+# Financial Papers
 The Drupal Feature module to replicate the George Washington Financial Papers project
 
 
@@ -170,6 +170,7 @@ At that point, if you haven’t added data to those fields at the page level, yo
 
 If you decide to store this metadata about transactions at the line level but still want to aggregate the information at the page level, you can create a view block of nodes from the single-entry line or double-entry line content types, add the field(s) you want to display, and add a contextual filter “Content: Book page”, set the default value to be “Content ID from URL”. Enable the block on the page content type, either using the Blocks configuration page (*Structure > Blocks or /admin/structure/block) or by adding the block as a custom field accessible to Display Suite in Structure > Display Suite > Fields > Add a block field* (/admin/structure/ds/fields/manage_block) and making it visible on the “Book page” content type’s “Manage display” page.
 
+![alt tag](http://financial.gwpapers.org/sites/financial.gwpapers.org/files/financial-papers-framework.png)
 
 ## Step 3. Organizing and customizing the default menu
 Installing and enabling the Financial Papers module will add many pages to the main menu -- so many that it is likely to spill over onto a second like. Out of the box, the module can add these pages (all of which are generated using Views) to the main menu, but it’s more difficult to export their arrangement.
