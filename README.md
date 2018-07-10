@@ -43,7 +43,7 @@ The Drupal Feature module to replicate the George Washington Financial Papers pr
 
 
 ## Overview
-The Financial Papers Drupal Feature module packages up the configuration used by the George Washington Financial Papers site to facilitate the development of other financial papers projects. Any project that is running Drupal 7 can install and enable the module to activate on their own site the data model created for the George Washington Financial Papers, as well as a number of the displays used for viewing, searching, and browsing the content on that site. While we anticipate that most projects will make some adjustments to the data model based on the particulars of their data and the interests of their audience, working from an existing model can significantly speed up the process of developing a new project. 
+The Financial Papers Drupal Feature module packages up the configuration used by the George Washington Financial Papers site to facilitate the development of other financial papers projects. Any project that is running **Drupal 7** and using **MySQL** can install and enable the module to activate on their own site the data model created for the George Washington Financial Papers, as well as a number of the displays used for viewing, searching, and browsing the content on that site. While we anticipate that most projects will make some adjustments to the data model based on the particulars of their data and the interests of their audience, working from an existing model can significantly speed up the process of developing a new project. 
 
 The Financial Papers Drupal Feature module uses a number of controlled vocabularies, some of which have a starter set of terms included along with the module (e.g. document type, transaction type), and some of which will need to be populated by the developers of other projects, based on their own data (e.g. names of source archives). 
 
@@ -116,7 +116,7 @@ The Financial Papers feature module formally lists the following modules as depe
 - [Features](https://www.drupal.org/project/features): required to install Financial Papers and other modules that package up configuration as a module
 - [Field Collection](https://www.drupal.org/project/field_collection): enables repeating groups of fields (in this case, currency and value)
 - [Field Group](https://www.drupal.org/project/field_group): can group fields on content editing and display forms into tabs
-- [Geofield](https://www.drupal.org/project/geofield): used to store geographic data
+- [Geofield](https://www.drupal.org/project/geofield): used to store geographic data. **Use version 2.x**
 - [GeoPHP](https://www.drupal.org/project/geophp): required by Geofield
 - [Leaflet](https://www.drupal.org/project/leaflet): mapping library; requires you to install the leaflet library in sites/all/libraries
 - Leaflet Views: part of the Leaflet module package, allows you to create views that use the Leaflet display
